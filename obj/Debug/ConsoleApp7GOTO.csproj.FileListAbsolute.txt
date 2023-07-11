@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\ConsoleApp7GOTO\ConsoleApp7GOTO\bin\Debug\ConsoleApp7GOTO.exe.config
+C:\Users\moham\source\repos\ConsoleApp7GOTO\ConsoleApp7GOTO\bin\Debug\ConsoleApp7GOTO.exe
+C:\Users\moham\source\repos\ConsoleApp7GOTO\ConsoleApp7GOTO\bin\Debug\ConsoleApp7GOTO.pdb
+C:\Users\moham\source\repos\ConsoleApp7GOTO\ConsoleApp7GOTO\obj\Debug\ConsoleApp7GOTO.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\ConsoleApp7GOTO\ConsoleApp7GOTO\obj\Debug\ConsoleApp7GOTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\ConsoleApp7GOTO\ConsoleApp7GOTO\obj\Debug\ConsoleApp7GOTO.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\ConsoleApp7GOTO\ConsoleApp7GOTO\obj\Debug\ConsoleApp7GOTO.exe
+C:\Users\moham\source\repos\ConsoleApp7GOTO\ConsoleApp7GOTO\obj\Debug\ConsoleApp7GOTO.pdb
